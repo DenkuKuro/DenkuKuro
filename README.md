@@ -1,5 +1,9 @@
 ## Hi! I'm Javier Deng Xu
 
+### About Me
+---
+I am a Computer Science student at Simon Fraser University, love working with computers and programming apps to make my life easier.
+
 💻 **Aspiring Software Engineer** passionate about building efficient, user-friendly applications.  
 🚀 Currently exploring **web development, mobile apps, and backend systems**.  
 🎯 My goal: to design and build impactful software that solves real-world problems.  
