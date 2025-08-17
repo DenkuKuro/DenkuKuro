@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student at Simon Fraser University, love working with computers and programming apps to make my life easier.<br><br>💻 **Aspiring Software Engineer** passionate about building efficient, user-friendly applications.  <br>🚀 Currently exploring **web development, mobile apps, and backend systems**.  <br>🎯 My goal: to design and build impactful software that solves real-world problems.  <br><br>Fun fact: I love playing volleyball
+I am a Computer Science student at Simon Fraser University, love working with computers and programming apps to make my life easier.<br><br>💻 **Aspiring Software Engineer** passionate about building efficient, user-friendly applications.  <br>🚀 Currently exploring **web development, mobile apps, and backend systems**.  <br>🎯 My goal: to design and build impactful software that solves real-world problems.  <br><br>Fun fact: I love playing volleyball and plan to learn how to use microcontrollers!
 
 
 ## 🌐 Socials:
